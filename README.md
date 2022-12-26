@@ -27,13 +27,13 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
                     Light Mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/02.png"   width="200">
+                    <img src="https://github.com/AntonyTharwat/HCI_News_Apllication/blob/main/ScreenShots/02.png"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
                     Countries
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/03.png"   width="200">
+                    <img src="https://github.com/AntonyTharwat/HCI_News_Apllication/blob/main/ScreenShots/03.png"   width="200">
                 </td>
             </tr>
             <tr>
@@ -41,13 +41,13 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
                     Category
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/04.png"   width="200">
+                    <img src="https://github.com/AntonyTharwat/HCI_News_Apllication/blob/main/ScreenShots/04.png"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
                     News Channels 
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/05.png"   width="200">
+                    <img src="https://github.com/AntonyTharwat/HCI_News_Apllication/blob/main/ScreenShots/05.png"   width="200">
                 </td>
             </tr>
         </table>
