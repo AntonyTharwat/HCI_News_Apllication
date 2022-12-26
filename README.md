@@ -1,22 +1,17 @@
-## News App Flutter [![GitHub stars](https://img.shields.io/github/stars/j-j-gajjar/FLUTTER_NewsApp?style=social)](https://github.com/login?return_to=%2Fj-j-gajjar%FLUTTER_NewsApp) ![GitHub forks](https://img.shields.io/github/forks/j-j-gajjar/FLUTTER_NewsApp?style=social) 
-
+## News App Flutter 
 A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories range from tech to entertainment. You can choose the news category displayed on the category page. The app provides a smooth and amazing design with gestures effect and a smooth experience with the android and iOS platforms.
 
  ## Todos
 
-- [x] Sound null safety
+- [x] Alan voice assistance (Navigatotion Tool)
 - [x] News Home page
 - [x] Live News
 - [x] Select news category page
 - [x] Live News
 - [x] Sort By Category | Country | News Channel
-- [x] Beautiful UI with Dual themes, ie. Light Theme and Dark Theme
 - [x] Fetch news from API
-- [x] Parse complicated JSON.
 - [x] Find With Keyword
 - [x] Display full news detail
-
-[With GetX Project](https://github.com/j-j-gajjar/Flutter_News_App_Using_GetX_MVC)
 
 <hr/>
 
@@ -57,9 +52,5 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
             </tr>
         </table>
 
-
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 
