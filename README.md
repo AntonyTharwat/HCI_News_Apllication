@@ -1,5 +1,5 @@
 ## News App Flutter 
-A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories range from tech to entertainment. You can choose the news category displayed on the category page. The app provides a smooth and amazing design with gestures effect and a smooth experience with the android and iOS platforms.
+A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories range from tech to entertainment. You can choose the news category displayed on the category page. The app provides a smooth and amazing design with gestures effect and a smooth experience with the android.
 
 #### Flutter Application (Android Studio Files): [Get Drive Link](https://drive.google.com/file/d/1sgS60gpDddqGYFTU3Bnh019gRSYwRR45/view?usp=share_link)
 
